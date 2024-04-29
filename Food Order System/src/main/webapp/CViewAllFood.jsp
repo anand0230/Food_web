@@ -1,5 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1" import="test.*,java.util.*"%>
+    pageEncoding="ISO-8859-1" import="FoodWeb.*,java.util.*"%>
 <!DOCTYPE html>
 <html>
 <head>
