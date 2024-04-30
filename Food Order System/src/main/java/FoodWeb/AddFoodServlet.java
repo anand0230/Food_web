@@ -32,17 +32,10 @@ public class AddFoodServlet extends HttpServlet{
 			}else {
 				req.setAttribute("msg", "Food Not added...");
 				req.getRequestDispatcher("Msg.jsp").forward(req, res);
-			}
-					
-		
+			}	
 			
 		}
-		
-  
-		
-		
-		
-		
+						
 	}
 
 }
